@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on qiao&#39;s  blog</title>
+    <link>https://qiao520-max.github.io/post/</link>
+    <description>Recent content in Posts on qiao&#39;s  blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 May 2021 08:16:06 +0800</lastBuildDate><atom:link href="https://qiao520-max.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second</title>
+      <link>https://qiao520-max.github.io/post/second/</link>
+      <pubDate>Fri, 21 May 2021 08:16:06 +0800</pubDate>
+      
+      <guid>https://qiao520-max.github.io/post/second/</guid>
+      <description>第二篇测试文章 </description>
+    </item>
+    
+    <item>
+      <title>My_first_blog</title>
+      <link>https://qiao520-max.github.io/post/my_first_blog/</link>
+      <pubDate>Fri, 21 May 2021 08:10:27 +0800</pubDate>
+      
+      <guid>https://qiao520-max.github.io/post/my_first_blog/</guid>
+      <description>**** </description>
+    </item>
+    
+    <item>
+      <title>bolgTest</title>
+      <link>https://qiao520-max.github.io/post/blog/</link>
+      <pubDate>Thu, 20 May 2021 23:10:33 +0800</pubDate>
+      
+      <guid>https://qiao520-max.github.io/post/blog/</guid>
+      <description>第一篇博客测试 </description>
+    </item>
+    
+    <item>
+      <title>Cover Post Example</title>
+      <link>https://qiao520-max.github.io/post/cover-example/</link>
+      <pubDate>Mon, 28 May 2018 14:09:24 +0700</pubDate>
+      
+      <guid>https://qiao520-max.github.io/post/cover-example/</guid>
+      <description>Cover post example Cover post example</description>
+    </item>
+    
+  </channel>
+</rss>
